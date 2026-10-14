@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vumoses1409-sudo.github.io/Shop-Be-Ye u/sitemap.xml
